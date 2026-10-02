@@ -1,0 +1,31 @@
+ticket_id,subject,description,priority
+T001,Production website is completely down,Our production website is unavailable for all customers and the checkout page cannot be opened.,P1
+T002,Possible security breach,We detected suspicious login activity across several employee accounts and need immediate investigation.,P1
+T003,Database service unavailable,The production database is not responding and multiple applications are failing.,P1
+T004,Payment processing stopped,Customers cannot complete payments and all payment attempts are failing.,P1
+T005,Major API outage,The main production API is returning errors for almost every request.,P1
+T006,Data loss incident,Several important production records appear to have disappeared after today's deployment.,P1
+T007,Company login service down,Employees across the company cannot sign in to the internal system.,P1
+T008,Critical server failure,The primary application server has stopped responding and the service is unavailable.,P1
+T009,Production errors after deployment,The latest release caused widespread errors for active customers.,P1
+T010,Urgent service interruption,The customer portal is unavailable for a large number of users.,P1
+T011,Report generation is failing,I cannot generate the monthly sales report and need it for today's meeting.,P2
+T012,Slow application performance,The application is responding very slowly during normal business hours.,P2
+T013,Invoice export problem,The invoice export fails for some accounts but the rest of the system works.,P2
+T014,User account locked,One employee is locked out of the account and needs access restored today.,P2
+T015,Dashboard data is delayed,The analytics dashboard has not refreshed since this morning.,P2
+T016,File upload sometimes fails,Some users are seeing intermittent errors when uploading files.,P2
+T017,Integration issue,The CRM integration is not syncing several records correctly.,P2
+T018,Application error for one feature,The search feature returns an error for some users.,P2
+T019,Need access to shared folder,Please provide access to the finance shared folder for a new employee.,P2
+T020,Printer not working in one office,The office printer is unavailable and the team needs it for routine documents.,P2
+T021,Change notification settings,How do I change which email notifications I receive?,P3
+T022,Update profile name,I would like to update the display name on my profile.,P3
+T023,How to reset password,Please tell me the steps to reset my password.,P3
+T024,Request user guide,Can you share the user guide for the reporting dashboard?,P3
+T025,Change language preference,Where can I change the language used by the application?,P3
+T026,Question about dashboard filters,How can I apply a date filter to the dashboard?,P3
+T027,Add email signature,I need instructions for adding an email signature.,P3
+T028,Request training material,Please provide the beginner training material for the application.,P3
+T029,Update contact information,I want to change my phone number in my account profile.,P3
+T030,Feature documentation question,Where can I find documentation for the export feature?,P3
